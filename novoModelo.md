@@ -1,0 +1,1 @@
+Esse arquivo é um fictício para um modelo hipotético desenvolvido numa nova branch
